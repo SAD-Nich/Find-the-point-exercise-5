@@ -1,0 +1,6 @@
+qx=int(input("Enter qx here"))
+px=int(input("Enter px here"))
+qy=int(input("Enter qy here"))
+py=int(input("Enter py here"))
+point=(2*qx - px, 2*qy - py)
+print(f"The point r = {(point)}")
